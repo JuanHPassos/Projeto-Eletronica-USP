@@ -20,7 +20,7 @@ Teremos a partir da tomada: tensão 127 volts, corrente alternada e frequência 
 | 10         | Fios Jumper       | [R$ 7.00](https://www.mercadolivre.com.br/40-x-jumper-fio-conector-macho-macho-protoboard-20-cm/p/MLB36837941?pdp_filters=item_id:MLB4690760302#is_advertising=true&searchVariation=MLB36837941&position=1&search_layout=grid&type=pad&tracking_id=b294b6b8-0712-4527-878b-30fb19ecc216&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=1&ad_click_id=ODgwN2Y5ZWQtODU0Yi00MzY1LWIzZTktNmFhMDcwZjhiYzFj)|
 | **Total**  |                   | **R$ 51,50**    |
 ## Componentes
-1. **Transformador**: primeiro componente do circuito após a fonte de corrente alternada (tomada). Será responsável por reduzir de 127v a ddp proveninete da tomada para o valor desejado pela projeto (3-12v). O transformador escolhido é capaz de abaixar a tensão de 110 volts para 12 volts.
+1. **Transformador**: primeiro componente do circuito após a fonte de corrente alternada (tomada). Será responsável por reduzir de 127v a ddp proveninete da tomada para o valor desejado pela projeto (3-12v). O transformador escolhido é capaz de abaixar a tensão de 110 volts para 24 volts.
 
 2. **Ponte de diodo(Ponte retificadora)**: utilizada para que o circuito seja abastecido com a corrente em ambos ciclos da corrente alternada.
 
