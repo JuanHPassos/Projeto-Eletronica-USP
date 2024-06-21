@@ -44,6 +44,7 @@ Teremos a partir da tomada: tensão 127 volts, corrente alternada e frequência 
 
 ## Vídeo no Youtube da fonte
 [Explicação_circuito](https://youtu.be/dezJuHKXQiE)
+
 [Funcionamento](https://youtu.be/6sgpQ-ToUSU)
 
 ## Alunos:
